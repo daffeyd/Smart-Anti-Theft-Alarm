@@ -21,6 +21,10 @@ This project is an automation that didn't use any microcontroller, it only uses 
 
 ![Project Image](Assets/poster.png)
 
+Circuit Schematic
+
+![Project Image](Assets/scheme.png)
+
 [Back To The Top](#Smart-Anti-Theft-Alarm)
 
 ---
@@ -30,7 +34,7 @@ This project is an automation that didn't use any microcontroller, it only uses 
 [Demo Video](https://drive.google.com/file/d/1K9aXgm1o1eiC-OflouxIvdz3pQ0uqImB/view?usp=sharing)
 
 
-[Back To The Top](#hydroponic-smart-controller)
+[Back To The Top](#Smart-Anti-Theft-Alarm)
 
 ---
 ## Author Info
@@ -38,6 +42,6 @@ This project is an automation that didn't use any microcontroller, it only uses 
 - Instagram - [daffeydwilbert](https://www.instagram.com/daffeydwilbert/)
 - Email - daffeydwilbert@gmail.com
 
-[Back To The Top](#hydroponic-smart-controller)
+[Back To The Top](#Smart-Anti-Theft-Alarm)
 
 
