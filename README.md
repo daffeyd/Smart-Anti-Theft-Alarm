@@ -1,6 +1,6 @@
 
 # Smart Anti Theft Alarm
-This project help you to make some private area or storage safe from stranger or person that you don't want to get in if you're not around. Person that have your permission of course could get in. If there is any perseon enter your private room or storage it will activate an alarm for 7 minutes.
+This project helps you to make some private area or storage room safe from stranger or person that you don't want to get in if you're not around. Person that have your permission will be able to get in. If there is any person enter your private room or storage, it will activate an alarm for 7 minutes.
 
 ![Project Image](Assets/cover.png)
 
@@ -17,7 +17,7 @@ This project help you to make some private area or storage safe from stranger or
 
 ## Description
 
-This project is an automation that didn't use any microcontroller, it only uses electrical componen such as capacitor transistor and anything else. 
+This project is an automation that didn't use any microcontroller, it only uses electrical components such as capacitor transistor. 
 
 ![Project Image](Assets/poster.png)
 
